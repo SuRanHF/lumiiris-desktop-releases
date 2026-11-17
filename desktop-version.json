@@ -1,0 +1,13 @@
+{
+  "versionCode": 103,
+  "versionName": "1.0.3",
+  "minSupportedVersionCode": 1,
+  "forceUpdate": false,
+  "changelog": "1. 纸张边距修复：所有模式与混合尺寸下保持上下左右对称居中与一致边距，并自动避让校准条；\n2. 展示色卡升级：按手机端完整规范补充水印快捷标签与密度/大小调节，新增水平/垂直永久滚动条，原生支持笔记本触控板双指上下左右滚动及双指捏合/Ctrl+滚轮缩放；\n3. 桌面端独立发行检查与 GitHub Release 自动回退上线，解决检查更新 404 问题。",
+  "apkUrl": "",
+  "windowsInstallerUrl": "https://github.com/SuRanHF/lumiiris-desktop-releases/releases/download/v1.0.3/LumiIrisStudio-v1.0.3-win-x64.exe",
+  "macDmgUrl": "",
+  "sha256": "952ae898bd055d7107eca788b7b52afc10777314139636222290c73b900a5368",
+  "fileSizeBytes": 112517347,
+  "publishedAt": "2026-11-18T01:06:00+08:00"
+}
