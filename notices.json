@@ -1,12 +1,12 @@
 {
   "notices": [
     {
-      "id": "desktop_welcome_107",
-      "title": "欢迎使用 璃瞳 · LumiIris Studio 桌面端 v1.0.7",
-      "body": "v1.0.7 现已上线 PNG 多对/多色眼珠自动拆解导入（兼容白底与透明底并自动剥离外围白底），并已切换至最新天翼云盘分享链接（提取码：9tv6）。",
+      "id": "desktop_welcome_108",
+      "title": "欢迎使用 璃瞳 · LumiIris Studio 桌面端 v1.0.8",
+      "body": "v1.0.8 重磅升级高密错行眼珠图鉴自动拆分引擎：实测单图 788 颗 / 394 对眼珠约 0.8 秒零错配拆完并自动去白底、多页成对排版。",
       "priority": "NORMAL",
       "showAsModalOnStartup": false,
-      "publishedAt": "2026-11-18T21:43:00+08:00"
+      "publishedAt": "2026-11-18T21:58:30+08:00"
     }
   ]
 }

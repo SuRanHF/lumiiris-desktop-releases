@@ -1,15 +1,15 @@
 {
-  "versionCode": 107,
-  "versionName": "1.0.7",
+  "versionCode": 108,
+  "versionName": "1.0.8",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "1. 新增 PNG 多对多色 / 多样式眼珠自动拆分导入：支持透明底与白底（含轻微阴影/粘连）整图自动识别拆分，每颗眼珠自动剥离外围白底并居中裁切为 1:1 透底图；\n2. 虹膜环形色彩识别与同行左右眼配对：同一款式多种配色互不误去重，批量导入多张 PNG 时逐一检查拆对，并支持勾选开关随时关闭自动抠除白底；\n3. 天翼云盘分享链接与提取码已更新至最新地址（提取码：9tv6）。",
+  "changelog": "1. 升级超密集目录大图全自动识别（最高 1280px 原画精度、自适应关闭膨胀防粘连、局部水平链成对配对）：支持从单张多风格错行眼珠总览图中精准拆出数百对（实测 788 颗 / 394 对）独立对眼；\n2. 并行裁切去白底与大批量多页默认排布：数百对裁切与去白底约 0.8 秒完成，多对大图自动切换按每对指定数量（1 对）多页铺排并优化绿框成对标注；\n3. 天翼云盘分享链接：https://cloud.189.cn/web/share?code=NRfquinUjm6r（提取码：9tv6）。",
   "apkUrl": "",
   "windowsInstallerUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
   "externalPageUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
   "accessCode": "9tv6",
   "macDmgUrl": "",
-  "sha256": "2be1536a25bf1182de03e36a3e0691abac217a924474299fdfc946f90fe30cbf",
-  "fileSizeBytes": 113100515,
-  "publishedAt": "2026-11-18T21:43:00+08:00"
+  "sha256": "e783011a66b23e744ebdcf591eb1b0fec306c8cf50ceea3ed6a7e0e6a71ef2b4",
+  "fileSizeBytes": 113105635,
+  "publishedAt": "2026-11-18T21:58:30+08:00"
 }
