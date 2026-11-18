@@ -1,12 +1,12 @@
 {
   "notices": [
     {
-      "id": "desktop_welcome_103",
-      "title": "欢迎使用 璃瞳 · LumiIris Studio 桌面端 v1.0.3",
-      "body": "桌面端独立发行仓库已上线，与手机版严格隔离；本版本优化了四边对称纸张边距、展示色卡触控板/双滚动条浏览体验与水印预设。",
+      "id": "desktop_welcome_105",
+      "title": "欢迎使用 璃瞳 · LumiIris Studio 桌面端 v1.0.5",
+      "body": "Gitee 桌面端独立更新源已正式上线；v1.0.5 提升了深浅主题文字对比度、新增色卡配置跨重启记忆，并将 PSD 解析与护眼分步导入对齐手机端流程。",
       "priority": "NORMAL",
       "showAsModalOnStartup": false,
-      "publishedAt": "2026-11-18T01:06:00+08:00"
+      "publishedAt": "2026-11-18T20:55:00+08:00"
     }
   ]
 }
