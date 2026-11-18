@@ -1,15 +1,15 @@
 {
-  "versionCode": 106,
-  "versionName": "1.0.6",
+  "versionCode": 107,
+  "versionName": "1.0.7",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "1. 新增官方品牌系统图标：为可执行文件、窗口标题栏、任务栏及快捷方式嵌入高清圆角「璃瞳」应用图标；\n2. 首次启动自动创建桌面与开始菜单快捷方式：从下载目录、微信或QQ临时文件夹打开单文件版时，自动固定到本机程序目录并生成桌面图标，设置页亦支持一键手动修复或安装；\n3. 优化关闭退出生命周期（OnMainWindowClose），彻底避免退出后后台进程残留。",
+  "changelog": "1. 新增 PNG 多对多色 / 多样式眼珠自动拆分导入：支持透明底与白底（含轻微阴影/粘连）整图自动识别拆分，每颗眼珠自动剥离外围白底并居中裁切为 1:1 透底图；\n2. 虹膜环形色彩识别与同行左右眼配对：同一款式多种配色互不误去重，批量导入多张 PNG 时逐一检查拆对，并支持勾选开关随时关闭自动抠除白底；\n3. 天翼云盘分享链接与提取码已更新至最新地址（提取码：9tv6）。",
   "apkUrl": "",
-  "windowsInstallerUrl": "https://cloud.189.cn/web/share?code=yyuMzu2euaIr",
-  "externalPageUrl": "https://cloud.189.cn/web/share?code=yyuMzu2euaIr",
-  "accessCode": "8y8e",
+  "windowsInstallerUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
+  "externalPageUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
+  "accessCode": "9tv6",
   "macDmgUrl": "",
-  "sha256": "347e1cae1c117dc9fe4c4fec1b323008d2431e17cf3173973b0071588cd539df",
-  "fileSizeBytes": 113081571,
-  "publishedAt": "2026-11-18T21:24:00+08:00"
+  "sha256": "2be1536a25bf1182de03e36a3e0691abac217a924474299fdfc946f90fe30cbf",
+  "fileSizeBytes": 113100515,
+  "publishedAt": "2026-11-18T21:43:00+08:00"
 }
