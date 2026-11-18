@@ -1,12 +1,12 @@
 {
   "notices": [
     {
-      "id": "desktop_welcome_105",
-      "title": "欢迎使用 璃瞳 · LumiIris Studio 桌面端 v1.0.5",
-      "body": "Gitee 桌面端独立更新源已正式上线；v1.0.5 提升了深浅主题文字对比度、新增色卡配置跨重启记忆，并将 PSD 解析与护眼分步导入对齐手机端流程。",
+      "id": "desktop_welcome_106",
+      "title": "欢迎使用 璃瞳 · LumiIris Studio 桌面端 v1.0.6",
+      "body": "本版本新增官方「璃瞳」桌面系统图标，并支持首次从下载/微信/QQ打开时自动创建桌面快捷方式与本机程序目录固定安装，可直接发送给朋友使用。",
       "priority": "NORMAL",
       "showAsModalOnStartup": false,
-      "publishedAt": "2026-11-18T20:55:00+08:00"
+      "publishedAt": "2026-11-18T21:24:00+08:00"
     }
   ]
 }
