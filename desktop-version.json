@@ -1,15 +1,15 @@
 {
-  "versionCode": 108,
-  "versionName": "1.0.8",
+  "versionCode": 109,
+  "versionName": "1.0.9",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "1. 升级超密集目录大图全自动识别（最高 1280px 原画精度、自适应关闭膨胀防粘连、局部水平链成对配对）：支持从单张多风格错行眼珠总览图中精准拆出数百对（实测 788 颗 / 394 对）独立对眼；\n2. 并行裁切去白底与大批量多页默认排布：数百对裁切与去白底约 0.8 秒完成，多对大图自动切换按每对指定数量（1 对）多页铺排并优化绿框成对标注；\n3. 天翼云盘分享链接：https://cloud.189.cn/web/share?code=NRfquinUjm6r（提取码：9tv6）。",
+  "changelog": "1. 新增排版纸张底色切换（透明底 / 纯白底 / 自定义色）与状态徽标，新建排版默认保持透明底并支持一键切换纯白底或自定义实色底；\n2. 画布透明底升级为经典灰白棋盘格预览，导出 PNG 严格所见即所得（画布选透明底即导出透明底 PNG，选白底即导出纯白底 PNG，按钮文案同步提示）；\n3. 优化透明底水印文字对比度与 PNG 覆写截断安全性；天翼云盘分享链接：https://cloud.189.cn/web/share?code=NRfquinUjm6r（提取码：9tv6）。",
   "apkUrl": "",
   "windowsInstallerUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
   "externalPageUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
   "accessCode": "9tv6",
   "macDmgUrl": "",
-  "sha256": "e783011a66b23e744ebdcf591eb1b0fec306c8cf50ceea3ed6a7e0e6a71ef2b4",
-  "fileSizeBytes": 113105635,
-  "publishedAt": "2026-11-18T21:58:30+08:00"
+  "sha256": "cd140e4266e2ac5f76cc793bdff3ae57f816edda6138de0630ea5905e8f07e49",
+  "fileSizeBytes": 54389320,
+  "publishedAt": "2026-11-19T13:44:00+08:00"
 }
