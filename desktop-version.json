@@ -1,15 +1,15 @@
 {
-  "versionCode": 109,
-  "versionName": "1.0.9",
+  "versionCode": 110,
+  "versionName": "1.1.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "1. 新增排版纸张底色切换（透明底 / 纯白底 / 自定义色）与状态徽标，新建排版默认保持透明底并支持一键切换纯白底或自定义实色底；\n2. 画布透明底升级为经典灰白棋盘格预览，导出 PNG 严格所见即所得（画布选透明底即导出透明底 PNG，选白底即导出纯白底 PNG，按钮文案同步提示）；\n3. 优化透明底水印文字对比度与 PNG 覆写截断安全性；天翼云盘分享链接：https://cloud.189.cn/web/share?code=NRfquinUjm6r（提取码：9tv6）。",
+  "changelog": "1. 修复按指定数量混排及单颗替换模式下毫米标签显示偏移 +1mm（如 13mm 误显为 14）的问题：统一直接读取标称目标高度，并对齐左侧列表「印刷尺寸」口径；\n2. 对齐手机端界面用词，将工作台与弹窗中的“眼珠目标规格 / 目标眼珠上下高度”统一修改为“眼柄上下高度”；\n3. 支持 GitHub Releases 直连下载更新（备用天翼云盘链接：https://cloud.189.cn/web/share?code=NRfquinUjm6r，提取码：9tv6）。",
   "apkUrl": "",
-  "windowsInstallerUrl": "https://github.com/SuRanHF/lumiiris-desktop-releases/releases/download/v1.0.9/LumiIrisStudio-v1.0.9-win-x64.exe",
+  "windowsInstallerUrl": "https://github.com/SuRanHF/lumiiris-desktop-releases/releases/download/v1.1.0/LumiIrisStudio-v1.1.0-win-x64.exe",
   "externalPageUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
   "accessCode": "9tv6",
   "macDmgUrl": "",
-  "sha256": "cd140e4266e2ac5f76cc793bdff3ae57f816edda6138de0630ea5905e8f07e49",
-  "fileSizeBytes": 54389320,
-  "publishedAt": "2026-11-19T13:44:00+08:00"
+  "sha256": "fcc523d27e58b0f97f4bdf98fd2b1c319e132a41024d60f3c1741498d1b1f427",
+  "fileSizeBytes": 54389255,
+  "publishedAt": "2026-11-20T11:45:20+08:00"
 }
